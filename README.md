@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet readme dosyası ve bir adet index.html dosyası bulunuyor.
 
-# Installation
+## Installation
 
 Öncelikle bu repoyu clonlayın.
 
@@ -9,7 +9,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 https://github.com/cemalettinaltintas/kodluyoruzilkrepo.git
 ```
 
-# Usage
+## Usage
 
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
@@ -20,11 +20,12 @@ cd kodluyoruzilkrepo
 
 code .
 ```
-# Contributing
+## Contributing
 Pull requestler kabul edilir. Büyük değişikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.4
 
-# License
-[MIT]()
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 
